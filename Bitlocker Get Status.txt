@@ -1,5 +1,5 @@
 REM Bitlocker -Status
-REM     - Nothing (i know it's absurd)
+REM     - Plug and Play
 
 DELAY 1000
 GUI x

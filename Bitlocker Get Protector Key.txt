@@ -10,6 +10,7 @@ SHIFT TAB
 DELAY 500
 ENTER
 
+REM  Volume Letter is Required type the letter of volume manually (c:/d:/e:) ex. managa-bde -protectors -get c:
 DELAY 2000
 STRING manage-bde -protectors -get 
 ENTER
